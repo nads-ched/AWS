@@ -1,5 +1,6 @@
-.container {width: -webkit-fill-available; margin: 0px auto;}
+.container {width: -webkit-fill-available; margin: 0px auto; align-items: center;}
 h1{width: max-content;}
+a{width: 200px;}
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
